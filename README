@@ -1,0 +1,3 @@
+This is a default set of files I use for a new cucumber test suite. It sets up a gemfile for Watir and PageObject, some default cucumber profiles and some hooks get get started with.
+
+This is for my personal use, based of a class I took with John "Cheezy" Morgan, but feel free to take it if you like.
