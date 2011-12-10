@@ -1,0 +1,2 @@
+default: --no-source --format pretty
+html: --no-source --format html -o report.html
